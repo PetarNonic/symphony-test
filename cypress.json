@@ -1,0 +1,13 @@
+{
+    "watchForFileChanges": false,
+    "viewportWidth": 1920,
+    "viewportHeight": 1080,
+    "retries": {
+        "runMode": 1,
+        "openMode": 1
+      },
+    "env": {
+        "homePage":   "http://automationpractice.com",
+        "email": "peca86pfc@gmail.com",
+        "password": "CypressRules!"
+}}
